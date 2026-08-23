@@ -8,3 +8,8 @@ A repository containing decks for YGOPRO / EDOPRO.
 `goat` - Sample GOAT format decks from [https://www.goatformat.com](https://www.goatformat.com/).
 
 `video_game` - Decks from various Yu-Gi-Oh! video games.
+
+### To Do
+- Add video game decks
+- Add starter and structure decks
+- Add character decks for the remaining series
